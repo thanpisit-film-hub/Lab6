@@ -15,6 +15,7 @@ int myFC1(int x){
 
 int main(){
 
+
     cout << "Enter an integer: ";
     cin >> z;
 
